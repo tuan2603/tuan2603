@@ -59,7 +59,8 @@
 &nbsp;
 <br>
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=&quote=There are two mistakes one can make along the road to truth: not going all the way, and not starting)](https://github.com/piyushsuthar/github-readme-quotes)
+<h2 align='center'>Quote of the Moment</h2>
+<h3 quote align='center'>There are two mistakes one can make along the road to truth: not going all the way, and not starting</h3 quote>
 
 <!--
 **tuan2603/tuan2603** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
