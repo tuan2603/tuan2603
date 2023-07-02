@@ -21,9 +21,11 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Swift-282C34?logo=swift&logoColor=3178C6" alt="Swift logo" title="Swift" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/Dart-282C34?logo=dart&logoColor=3178C6" alt="Dart logo" title="Dart" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/Java-282C34?logo=java&logoColor=3178C6" alt="Java logo" title="Java" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/React%20Native-282C34?logo=react&logoColor=61DAFB" alt="React Native logo" title="React Native" height="25" /></span>
+<span><img src="https://img.shields.io/badge/React%20Native-282C34?logo=createreactapp&logoColor=61DAFB" alt="React Native logo" title="React Native" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Flutter-282C34?logo=flutter&logoColor=61DAFB" alt="Flutter logo" title="Flutter" height="25" /></span>
 &nbsp;
@@ -36,10 +38,6 @@
 <span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=00F200" alt="Node.js logo" title="Node.js" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" /></span>
 &nbsp;
