@@ -59,7 +59,7 @@
 &nbsp;
 <br>
 
-<h2 align='center'>Quote of the Moment</h2>
+<h2 align='center'>🤔 Quote of the Moment 🤔</h2>
 <br>
 <h4 quote align='center'>There are two mistakes one can make along the road to truth: not going all the way, and not starting</h4 quote>
 
