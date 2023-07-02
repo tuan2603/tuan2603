@@ -60,7 +60,8 @@
 <br>
 
 <h2 align='center'>Quote of the Moment</h2>
-<h3 quote align='center'>There are two mistakes one can make along the road to truth: not going all the way, and not starting</h3 quote>
+<br>
+<h4 quote align='center'>There are two mistakes one can make along the road to truth: not going all the way, and not starting</h4 quote>
 
 <!--
 **tuan2603/tuan2603** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
