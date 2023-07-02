@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi, I am Tuan 👋
+
++ 5+ years’ experience in mobile software development (Android, iOS, React Native or Flutter)
+  - React native level Advanced,
+  - Android ( Java, Kotlin) level Intermediate,
+  - IOS (swift) level beginner,
+  - Flutter level beginner
++ Familiarity with RESTful APIs to connect applications to back-end services
++ Knowledge of other mobile technologies and UI/UX standards
++ Familiarity with cloud message APIs and push notifications
++ Experience putting apps on Apple Store and Play Store
 
 <!--
 **tuan2603/tuan2603** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
