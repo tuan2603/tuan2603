@@ -17,6 +17,12 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/Kotlin-282C34?logo=kotlin&logoColor=3178C6" alt="Kotlin logo" title="Kotlin" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Swift-282C34?logo=swift&logoColor=3178C6" alt="Swift logo" title="Swift" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Java-282C34?logo=java&logoColor=3178C6" alt="Java logo" title="Java" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/React%20Native-282C34?logo=react&logoColor=61DAFB" alt="React Native logo" title="React Native" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Android%20Studio-282C34?logo=androidstudio&logoColor=61DAFB" alt="Android Studio logo" title="Android Studio" height="25" /></span>
